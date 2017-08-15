@@ -23,7 +23,7 @@ var articles = {
     },
     'article-two' : {
     title: 'Article Two | Lalithalakshmi R',
-    heading: 'Article oTw',
+    heading: 'Article Two',
     date: 'Aug 15, 2017',
     content: `
         <p>
